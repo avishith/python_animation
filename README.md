@@ -1,2 +1,2 @@
 # python_animation
-This is a sime python animation using pygame.(snow fall)
+This is a simple python animation using pygame.(snow fall)
